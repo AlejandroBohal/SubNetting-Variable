@@ -1,0 +1,120 @@
+Red: 1
+Id red: 123.36.128.4
+Brodcast red: 123.36.128.7
+Mascara: 255.255.255.252 /30
+Gateway: 123.36.128.5
+Numero host: 2
+
+Red: 2
+Id red: 123.36.128.8
+Brodcast red: 123.36.128.11
+Mascara: 255.255.255.252 /30
+Gateway: 123.36.128.9
+Numero host: 2
+
+Red: 3
+Id red: 123.36.128.12
+Brodcast red: 123.36.128.15
+Mascara: 255.255.255.252 /30
+Gateway: 123.36.128.13
+Numero host: 2
+
+Red: 4
+Id red: 123.36.128.16
+Brodcast red: 123.36.128.19
+Mascara: 255.255.255.252 /30
+Gateway: 123.36.128.17
+Numero host: 2
+
+Red: 5
+Id red: 123.36.128.20
+Brodcast red: 123.36.128.23
+Mascara: 255.255.255.252 /30
+Gateway: 123.36.128.21
+Numero host: 2
+
+Red: 6
+Id red: 123.36.128.24
+Brodcast red: 123.36.128.27
+Mascara: 255.255.255.252 /30
+Gateway: 123.36.128.25
+Numero host: 2
+
+Red: 7
+Id red: 123.36.128.28
+Brodcast red: 123.36.128.31
+Mascara: 255.255.255.252 /30
+Gateway: 123.36.128.29
+Numero host: 2
+
+Red: 8
+Id red: 123.36.128.32
+Brodcast red: 123.36.128.35
+Mascara: 255.255.255.252 /30
+Gateway: 123.36.128.33
+Numero host: 2
+
+Red: 9
+Id red: 123.36.128.36
+Brodcast red: 123.36.128.39
+Mascara: 255.255.255.252 /30
+Gateway: 123.36.128.37
+Numero host: 2
+
+Red: 10
+Id red: 123.36.128.128
+Brodcast red: 123.36.128.255
+Mascara: 255.255.255.128 /25
+Gateway: 123.36.128.129
+Numero host: 126
+
+Red: 11
+Id red: 123.36.129.0
+Brodcast red: 123.36.129.127
+Mascara: 255.255.255.128 /25
+Gateway: 123.36.129.1
+Numero host: 126
+
+Red: 12
+Id red: 123.36.129.128
+Brodcast red: 123.36.129.255
+Mascara: 255.255.255.128 /25
+Gateway: 123.36.129.129
+Numero host: 126
+
+Red: 13
+Id red: 123.36.130.0
+Brodcast red: 123.36.130.255
+Mascara: 255.255.255.0 /24
+Gateway: 123.36.130.1
+Numero host: 254
+
+Red: 14
+Id red: 123.36.132.0
+Brodcast red: 123.36.133.255
+Mascara: 255.255.254.0 /23
+Gateway: 123.36.132.1
+Numero host: 510
+
+Red: 15
+Id red: 123.36.136.0
+Brodcast red: 123.36.139.255
+Mascara: 255.255.252.0 /22
+Gateway: 123.36.136.1
+Numero host: 1022
+
+Red: 16
+Id red: 123.36.140.0
+Brodcast red: 123.36.143.255
+Mascara: 255.255.252.0 /22
+Gateway: 123.36.140.1
+Numero host: 1022
+
+Red: 17
+Id red: 123.36.144.0
+Brodcast red: 123.36.147.255
+Mascara: 255.255.252.0 /22
+Gateway: 123.36.144.1
+Numero host: 1022
+
+
