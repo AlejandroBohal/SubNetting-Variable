@@ -54,6 +54,6 @@ def main():
     a = stdin.readline().strip()
     a = a.replace(' ','')
     lista = [int(x) for x in a]
-    print(checksum(lista))
+    print(*checksum(lista),sep="")
     
 main()
